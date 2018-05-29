@@ -35,7 +35,7 @@ definition(
 	namespace: "davegut",
 	author: "Dave Gutheinz",
 	description: "A Service Manager for the TP-Link devices connecting through the TP-Link Cloud",
-	category: "SmartThings Labs",
+	category: "My Apps",
 	iconUrl: "http://ecx.images-amazon.com/images/I/51S8gO0bvZL._SL210_QL95_.png",
 	iconX2Url: "http://ecx.images-amazon.com/images/I/51S8gO0bvZL._SL210_QL95_.png",
 	iconX3Url: "http://ecx.images-amazon.com/images/I/51S8gO0bvZL._SL210_QL95_.png",
